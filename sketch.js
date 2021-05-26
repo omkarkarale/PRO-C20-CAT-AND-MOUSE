@@ -1,12 +1,12 @@
 function preload() {
     //load the images here
-    bg = loadImage("images/garden.png");
-    catImg = loadAnimation("images/cat1.png");
-    catWalk = loadAnimation("images/cat3.png", "images/cat2.png");
-    catHappy = loadAnimation("images/cat4.png")
-    mouseImg = loadAnimation("images/mouse2.png");
-    mouseImg2 = loadAnimation("images/mouse3.png");
-    mouseHappy = loadAnimation("images/mouse1.png");
+    bg = loadImage("garden.png");
+    catImg = loadAnimation("cat1.png");
+    catWalk = loadAnimation("cat3.png", "cat2.png");
+    catHappy = loadAnimation("cat4.png")
+    mouseImg = loadAnimation("mouse2.png");
+    mouseImg2 = loadAnimation("mouse3.png");
+    mouseHappy = loadAnimation("mouse1.png");
 }
 
 function setup(){
